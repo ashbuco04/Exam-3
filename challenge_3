@@ -1,3 +1,5 @@
+#Adding this comment 1:25pm KA
+
 Challenge 3 Using #2’s repo NOT collaboratively (so you don’t have to argue about how
 
 you resolve merge conflicts)
@@ -26,4 +28,4 @@ git pull upstream main
 
 git push origin main
 
-Test to see if you can see this...
+Both collaborators now have identical copies of #2’s repo locally and on github
